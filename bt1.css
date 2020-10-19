@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    text-transform: uppercase;
+}
+
+button{color: white;
+ background-color: red;}
+ select{color: red;}
+div{opacity: 0.4;}
